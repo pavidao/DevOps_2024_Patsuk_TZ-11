@@ -17,3 +17,4 @@
 
 
 ### Результат
+![Image alt](https://github.com/pavidao/DevOps_2024_Patsuk_TZ-11/blob/main/Task_2/Part_2/photo_2024-03-11_00-30-18.jpg)
